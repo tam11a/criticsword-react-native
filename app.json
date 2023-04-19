@@ -5,6 +5,15 @@
       "bundler": "metro"
     },
     "name": "native-app",
-    "slug": "native-app"
+    "slug": "criticsword",
+    "extra": {
+      "eas": {
+        "projectId": "b62d27bd-7c4f-4201-b6c0-2f6ba92054c2"
+      }
+    },
+    "owner": "tam11a",
+    "android": {
+      "package": "com.tam11a.criticsword"
+    }
   }
 }
